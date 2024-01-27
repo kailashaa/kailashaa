@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Amit, a passionate software developer and a te
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/> 
+<!--       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/>  -->
 <!--       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
 <!--       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/> -->
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
