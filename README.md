@@ -51,8 +51,5 @@ Feel free to reach out for collaborations or just a friendly chat!
 
 ---
 
-### My GitHub Stats 📈
-
-![Chahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 <!-- This section can include GitHub stats, streaks, most used languages, etc. -->
